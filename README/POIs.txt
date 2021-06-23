@@ -1,0 +1,9 @@
+The file for POIS is the latest version of the POIS after all the proceesing is done. 
+
+In our system SCD and POIs are large datasets. It wont be easilyshare by email or github
+
+Therefore, I have extracted the necessary/latest version of the files over here, which you can use in the code and see/understand the structure of the model with evaluation analysis. 
+
+If you like to process POIs and SCD with your own methodology, data is available (exceptSSCD, because they have labelled based on activities). Please let me know. 
+
+
